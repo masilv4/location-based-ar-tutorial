@@ -1,2 +1,6 @@
 # location-based-ar-tutorial
-A repository for test the AR.js library, used for creating AR based apps.
+A repository for testing the AR.js.
+
+That library is used for creating AR based apps.
+
+:coffee:
